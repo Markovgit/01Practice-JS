@@ -1,0 +1,4 @@
+trying to learn JS while building this project for my portfolio. 
+A simple ping-pong game where you play against pc.
+
+trying to learn how to use classes while also learning the DOM manipulation and Math.
